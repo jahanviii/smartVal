@@ -1,0 +1,57 @@
+{
+    "Navbar": {
+    "home": "Home",
+    "language": "Language",
+        "startValuation": "Start Valuation"
+  },
+  "result": {
+  "title": "Valuation Results",
+  "estimatedValue": "Estimated Property Value",
+  "confidence": "Confidence Level",
+  "priceRange": "Estimated Price Range",
+  "keyFactors": "Key Factors Considered",
+  "tryAgain": "Try Again"
+},
+"confidence": {
+  "high": "High Confidence",
+  "medium": "Moderate Confidence",
+  "low": "Low Confidence"
+},
+  "home": {
+    "hero": {
+      "title": "SmartVal Property Valuation",
+      "subtitle": "Get instant AI-powered property valuations with confidence scores",
+      "cta": "Start Valuation"
+    },
+    "features": {
+  "ai": { "title": "AI-Powered", "desc": "Advanced machine learning models" },
+  "accurate": { "title": "Accurate", "desc": "Based on real market data" },
+  "instant": { "title": "Instant", "desc": "Results in seconds" }
+     },
+    "form": {
+      "title": "Property Valuation Form",
+      "propertyType": "Property Type",
+      "propertyTypePlaceholder": "Select property type",
+      "city": "City",
+      "cityPlaceholder": "Enter city name",
+      "area": "Area (sq. ft)",
+      "areaPlaceholder": "Enter area in square feet",
+      "expectedPrice": "Expected Price (₹)",
+      "expectedPricePlaceholder": "Enter expected price",
+      "submit": "Get Valuation",
+      "submitting": "Calculating...",
+      "errors": {
+        "required": "This field is required",
+        "minArea": "Area must be at least 100 sq. ft",
+        "minPrice": "Price must be at least ₹100,000"
+      },
+       "propertyTypes": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "plot": "Plot",
+      "commercial": "Commercial"
+    }
+    }
+   
+  }
+}
